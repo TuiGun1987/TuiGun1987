@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## My name is Alexei 🙋
+
+🌱 I'm currently studying data analytics. As I study, I will post projects here
+
+📫 How to reach me: 
+Telegram @TuiGun14
 <!--
 **TuiGun1987/TuiGun1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
