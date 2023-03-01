@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Alexei 🙋
+## My name is Alexei Baianaev🙋
 
 🌱 I'm currently studying data analytics. As I study, I will post projects here
 
